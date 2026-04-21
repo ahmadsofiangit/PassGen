@@ -3,7 +3,5 @@ Donation Support: https://buymeacoffee.com/retrobreado
 
 ### Usage:
 ``` shell
-  python3 PassGen.py -l 10 -c 10 -m weak
-  python3 PassGen.py -l 10 -c 10 -m strong
-  python3 PassGen.py -l 10 -c 10 -m medium
+  python3 PassGen.py -l <Set the line length of password> -c <Set character length of password> -m {level}
 ```
