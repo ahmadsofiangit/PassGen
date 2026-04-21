@@ -2,8 +2,8 @@ Passgen is a wordlist generator. Allowing you to customize the level of password
 Donation Support: https://buymeacoffee.com/retrobreado
 
 ### Usage:
-``` python
+``` shell
   python3 PassGen.py -l 10 -c 10 -m weak
-	python3 PassGen.py -l 10 -c 10 -m strong
-	python3 PassGen.py -l 10 -c 10 -m medium
+  python3 PassGen.py -l 10 -c 10 -m strong
+  python3 PassGen.py -l 10 -c 10 -m medium
 ```
