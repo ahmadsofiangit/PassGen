@@ -27,8 +27,8 @@ class command():
     
     meaning = (
     "Showing a command arguments", 
-    "Set the line of password", 
-    "Set the character of password", 
+    "Set the line length of password", 
+    "Set the character length of password", 
     "Mode options: Weak, Strong, Medium")
     
     example = (
